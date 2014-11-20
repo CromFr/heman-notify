@@ -6,7 +6,7 @@ cp heman.png $HOME/.local/share/icons
 
 #install sound
 mkdir -p $HOME/.local/share/sounds
-cp heman.png $HOME/.local/share/sounds
+cp hey.ogg $HOME/.local/share/sounds
 
 #Add the alias to the shellrc (.bashrc for most people)
 SHRC="$HOME/.`basename $SHELL`rc"
